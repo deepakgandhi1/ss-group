@@ -1,0 +1,259 @@
+{
+    "projects": [
+        {
+            "ProjectName": "SS CENDANA",
+            "slug": "ss-cendana",
+            "Location": "Sector 83, Gurugram",
+            "Overview": "Cendana - Pronounced as s\u00ean-da-na It\u2019s origin lies in Sanskrit and Malay.It means the fragrance of sandalwood.",
+            "sections": [
+                {
+                    "imageUrl": "https:\/\/www.ssgroup-india.com\/..\/images\/171088962.webp",
+                    "content": {
+                        "title": "THE COMPLEX",
+                        "points": [
+                            "LOCATED IN SECTOR 83",
+                            "DESIGNED BY ACCLAIMED ARCHITECTS ARCOP",
+                            "12.611 ACRES OF AN URBAN OASIS",
+                            "10 HIGHRISE TOWERS OF G+33 & G+32 FLOORS",
+                            "MULTI-LEVEL CLUB HOUSE"
+                        ]
+                    }
+                },
+                {
+                    "imageUrl": "https:\/\/www.ssgroup-india.com\/..\/images\/13739070774.webp",
+                    "content": {
+                        "title": "THE RESIDENCES",
+                        "points": [
+                            "SELECT 3-BHK LUXURY RESIDENCES",
+                            "4-SIDE OPEN LIVING WITH 360 DEGREE VIEWS",
+                            "BEST IN CLASS FLOOR PLANS",
+                            "OPTIMUM SIZE HOMES IN 1450 SQ.FT. & 1850 SQ.FT.",
+                            "FLOOR TO CEILING WINDOWS",
+                            "HIGH QUALITY FLOORING AND PREMIUM FINISHES"
+                        ]
+                    }
+                },
+                {
+                    "imageUrl": "https:\/\/www.ssgroup-india.com\/..\/images\/3113641461.webp",
+                    "content": {
+                        "title": "THE CLUB 83",
+                        "points": [
+                            "TWO SWIMMING POOLS",
+                            "2 BADMINTON COURTS",
+                            "LAWN TENNIS COURT",
+                            "HALF BASKETBALL COURT",
+                            "OUTDOOR GYM",
+                            "KIDS PLAY AREA",
+                            "STEAM AND SAUNA",
+                            "TEA LOUNGE",
+                            "MULTIPURPOSE HALL",
+                            "INDOOR GAMES",
+                            "LOBBY SIT-OUT"
+                        ]
+                    }
+                }
+            ],
+            "sliderContent": [
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/70544854205.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/37962154403.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/67771225707.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/23525520908.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/124306861806.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/176269239501.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/179256032109.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/174753764002.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/186697902104.webp"
+                }
+            ],
+            "locationData": [
+                {
+                    "locationImage": "https:\/\/www.ssgroup-india.com\/file\/1903050346location-map.webp",
+                    "locationTitle": "IN THE VICINITY",
+                    "locationInfo": {
+                        "SCHOOLS": [
+                            "Bharat Ram Global School",
+                            "Matrikiran High School",
+                            "Delhi Public School",
+                            "RPS International",
+                            "SD Modern Public School",
+                            "St. Xavier\u2019s High School",
+                            "Yaduvanshi International School",
+                            "Kids Play School"
+                        ],
+                        "HOSPITALS": [
+                            "Genesis Hospital",
+                            "Silver Streak Hospital",
+                            "Aarvy Hospital",
+                            "Apollo Miracle",
+                            "Medeo Hospital",
+                            "Signature Hospital"
+                        ],
+                        "SHOPPINGS": [
+                            "SS Omnia",
+                            "Iris Broadway",
+                            "Sapphire 83",
+                            "Sapphire 90",
+                            "Vatika Town Square",
+                            "Elan Miracle"
+                        ],
+                        "HOTELS": [
+                            "Hyatt Regency",
+                            "Holiday Inn",
+                            "Misaki Manesar",
+                            "Savoy Suites",
+                            "Ginger Manesar",
+                            "Hilton Garden Inn",
+                            "Treehouse Queens Pearl",
+                            "Park Inn"
+                        ]
+                    }
+                }
+            ],
+            "faq": [
+                {
+                    "question": "What category of homes does SS Group offer?",
+                    "answer": "Accordion Content Goes Here"
+                },
+                {
+                    "question": "How can I contact SS Group?",
+                    "answer": "Another FAQ answer"
+                }
+            ]
+        },
+        {
+            "ProjectName": "SS STRADA",
+            "slug": "ss-strada",
+            "Location": "Sector 84 Gurugram",
+            "Overview": "",
+            "sections": [
+                {
+                    "imageUrl": "https:\/\/www.ssgroup-india.com\/..\/images\/89159282802 (1).jpg",
+                    "content": {
+                        "title": "THE DEVELOPMENT",
+                        "points": [
+                            "LOCATED IN SECTOR 84",
+                            "TWO SIDE OPEN",
+                            "DEVELOPMENT OVER 1.11 LAKH SQ.FT.",
+                            "MODERN FACADE",
+                            "MEGA HYPERMARKET & ANCHORS",
+                            "OPEN-TO-SKY TERRACE FOOD HUB"
+                        ]
+                    }
+                },
+                {
+                    "imageUrl": "https:\/\/www.ssgroup-india.com\/..\/images\/2126670953ss-strasda img location (1).jpg",
+                    "content": {
+                        "title": "THE LOCATION",
+                        "points": [
+                            "SECTOR 84",
+                            " NEW GURUGRAM",
+                            "RIGHT ON 60M + 24M WIDE ROAD",
+                            "ONLY 5 MINUTES FROM CLOVER LEAF",
+                            " GURUGRAM",
+                            "JUST OFF SS THE LEAF",
+                            " SS LINDEN & MANY OTHER TOWNSHIPS"
+                        ]
+                    }
+                },
+                {
+                    "imageUrl": "https:\/\/www.ssgroup-india.com\/..\/images\/207828076704 (1).jpg",
+                    "content": {
+                        "title": "THE MIX",
+                        "points": [
+                            "NEIGHBOURHOOD BAZAAR",
+                            "HYPERMARKET",
+                            "ANCHOR STORE",
+                            "OPEN-TO-SKY FOOD HUB"
+                        ]
+                    }
+                }
+            ],
+            "sliderContent": [
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1591356215Aerial01.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/2115945938Side.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1221896192Street view01.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/161854332STRADA  Front final.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/2006064513P523 N0E_Corridor Area_2023-07-11_007.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/285547504P523_Hypermarket Area_2023-07-11_004.webp"
+                },
+                {
+                    "imageSrc": "https:\/\/www.ssgroup-india.com\/..\/images\/1931074131Terrace close.webp"
+                }
+            ],
+            "locationData": [
+                {
+                    "locationImage": "https:\/\/www.ssgroup-india.com\/file\/",
+                    "locationTitle": "",
+                    "locationInfo": {
+                        "": [
+                            ""
+                        ]
+                    }
+                }
+            ],
+            "faq": [
+                {
+                    "question": "1",
+                    "answer": "2"
+                },
+                {
+                    "question": "3",
+                    "answer": "4"
+                }
+            ]
+        },
+        {
+            "ProjectName": "ss KIAVASA",
+            "slug": "ss-kiavasa",
+            "Location": "SECTOR 83, NEW GURUGRAM",
+            "Overview": "SS Kiavasa, a beacon of opulence, stands tall at 41 stories high, redefining luxury living in New Gurugram. In a city known for its relentless pace, SS Kiavasa emerges as a testament to the art of refined living.",
+            "sections": [],
+            "sliderContent": [],
+            "locationData": [
+                {
+                    "locationImage": "https:\/\/www.ssgroup-india.com\/file\/",
+                    "locationTitle": "",
+                    "locationInfo": {
+                        "": [
+                            ""
+                        ]
+                    }
+                }
+            ],
+            "faq": [
+                {
+                    "question": "test",
+                    "answer": "test"
+                }
+            ]
+        }
+    ]
+}

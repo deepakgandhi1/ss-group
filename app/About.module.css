@@ -1,0 +1,15 @@
+.parallaxContainer {
+    position: relative;
+    overflow: hidden;
+  }
+  .parallaxImage {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .parallaxImageInner {
+    transform-origin: center center;
+    transform: translateY(0);
+    transition: transform 0.3s ease-out; 
+  }

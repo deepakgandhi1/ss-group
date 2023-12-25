@@ -1,0 +1,133 @@
+{
+    "projects": [
+      {
+        "ProjectName": "SS CENDANA",
+        "Location": "Sector 83, Gurugram",
+        "Overview": "This is where a brief description of each project will come in 2 to 3 lines. This is where a brief description of each project will come in 2 to 3 lines. This is where a brief description of each project will come in 2 to 3 lines."
+      }
+    ],
+    "sections": [
+      {
+        "imageUrl": "/ss-cendana-01.webp",
+        "content": {
+          "title": "THE COMPLEX",
+          "points": [
+            "LOCATED IN SECTOR 83",
+            "DESIGNED BY ACCLAIMED ARCHITECTS ARCOP",
+            "12.611 ACRES OF AN URBAN OASIS",
+            "10 HIGHRISE TOWERS OF G+33 & G+32 FLOORS",
+            "MULTI-LEVEL CLUB HOUSE"
+          ]
+        }
+      },
+      {
+        "imageUrl": "/ss-cendana-02.webp",
+        "content": {
+          "title": "THE RESIDENCES",
+          "points": [
+            "SELECT 3-BHK LUXURY RESIDENCES",
+            "4-SIDE OPEN LIVING WITH 360 DEGREE VIEWS",
+            "BEST IN CLASS FLOOR PLANS",
+            "OPTIMUM SIZE HOMES IN 1450 SQ.FT. & 1850 SQ.FT.",
+            "FLOOR TO CEILING WINDOWS",
+            "HIGH-QUALITY FLOORING AND PREMIUM FINISHES"
+          ]
+        }
+      },
+      {
+        "imageUrl": "/ss-cendana-03.webp",
+        "content": {
+          "title": "CLUB 83",
+          "points": [
+            "TWO SWIMMING POOLS",
+            "2 BADMINTON COURTS",
+            "LAWN TENNIS COURT",
+            "HALF BASKETBALL COURT",
+            "OUTDOOR GYM",
+            "KIDS PLAY AREA",
+            "STEAM AND SAUNA",
+            "TEA LOUNGE",
+            "MULTIPURPOSE HALL",
+            "INDOOR GAMES",
+            "LOBBY SIT-OUT"
+          ]
+        }
+      }
+    ],
+    "sliderContent": [
+        {
+          "imageSrc": "/gallery-01.webp"
+        },
+        {
+          "imageSrc": "/gallery-02.webp"
+        },
+        {
+          "imageSrc": "/gallery-03.webp"
+        },
+        {
+          "imageSrc": "/gallery-04.webp"
+        },
+        {
+          "imageSrc": "/gallery-05.webp"
+        }
+      ],
+      "locationImage": "/location-map.webp",
+      "locationTitle":"IN THE VICINITY",
+      "locationInfo": {
+        "Schools": [
+          "Bharat Ram Global School",
+          "Matrikiran High School",
+          "Delhi Public School",
+          "RPS International",
+          "SD Modern Public School",
+          "St. Xavier’s High School",
+          "Yaduvanshi International School",
+          "Kids Play School"
+        ],
+        "Hospitals": [
+          "Genesis Hospital",
+          "Silver Streak Hospital",
+          "Aarvy Hospital",
+          "Apollo Miracle",
+          "Medeo Hospital",
+          "Signature Hospital"
+        ],
+        "Shoppings": [
+          "SS Omnia",
+          "Iris Broadway",
+          "Sapphire 83",
+          "Sapphire 90",
+          "Vatika Town Square",
+          "Elan Miracle"
+        ],
+        "Hotels": [
+          "Hyatt Regency",
+          "Holiday Inn",
+          "Misaki Manesar",
+          "Savoy Suites",
+          "Ginger Manesar",
+          "Hilton Garden Inn",
+          "Treehouse Queens Pearl",
+          "Park Inn"
+        ]
+      },
+      "faq": [
+        {
+          "question": "What category of homes does SS Group offer?",
+          "answer": "Accordion Content Goes Here"
+        },
+        {
+          "question": "Where can we see Show Flat of new projects?",
+          "answer": "Accordion Content Goes Here"
+        },
+        {
+          "question": "How can I contact SS Group?",
+          "answer": "Accordion Content Goes Here"
+        },
+        {
+          "question": "Another FAQ question",
+          "answer": "Another FAQ answer"
+        }
+      ]
+  }
+  

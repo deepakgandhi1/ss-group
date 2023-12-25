@@ -1,0 +1,1219 @@
+@media all and (max-width:1700px) {
+    .lefspace {
+        width: 90%;
+    }
+
+    .hiddentextcolumn .scroll-animated-text {
+        right: 98%;
+    }
+
+    .fulltextcolumn {
+        width: 78vw;
+    }
+
+    .scroll-animated-text {
+        font-size: 270px;
+    }
+
+    .ssgroupformtext .text-transform h2 {
+        font-size: 9.7em;
+    }
+
+    .abstractshape p {
+        max-height: 140px;
+        overflow: auto;
+    }
+}
+
+@media all and (max-width:1600px) {
+    .fulltextcolumn {
+        width: 83vw;
+    }
+
+    .hiddentextcolumn .scroll-animated-text {
+        right: 105%;
+    }
+
+    .countercount {
+        font-size: 65px;
+    }
+
+    .ethoscontent h4 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+
+    .abstractshape {
+        height: 220px;
+    }
+
+    .rightbox {
+        width: 100%;
+    }
+
+    .rightbox .title h3 {
+        font-size: 13px;
+    }
+
+    .address,
+    .contact {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .menus .togmenu .sidemenus li a {
+        font-size: 11px;
+        letter-spacing: 4px;
+        white-space: nowrap;
+    }
+
+    .abstractshape p,
+    .circlecont p {
+        font-size: 13px;
+        line-height: 18px;
+        max-height: 120px;
+    }
+
+    .menus .togmenu ul li {
+        padding: 15px 0;
+    }
+}
+
+@media all and (max-width:1450px) {
+    .fulltextcolumn {
+        width: 96vw;
+    }
+    .mediasection button {
+        min-width: 60px;
+        max-width: 60px;
+    }
+    .aboutus .imagemanager img {height: 130vh;}
+    .lg-react-element a {
+        width: 30%;
+    }
+
+    .locationinfo {
+        margin-top: 10px;
+    }
+
+    .abstractshape {
+        height: 196px;
+    }
+
+    .heading h3,
+    .projectcontent h3 {
+        font-size: 30px;
+    }
+
+    header.blackheader {
+        min-height: 100px;
+    }
+
+    .breadcumtab ul li {
+        font-size: 11px;
+    }
+
+    .locationheading h4 {
+        font-size: 17px;
+    }
+
+    /* header.blackheader .header {
+        padding: 15px 0;
+    } */
+    .heading h1 {
+        font-size: 44px;
+    }
+
+    .countercount {
+        font-size: 65px;
+        white-space: nowrap;
+    }
+
+    .hiddentextcolumn .scroll-animated-text {
+        right: 120%;
+    }
+
+    .imagemanager {
+        max-height: 360px;
+    }
+
+    section.image-effect-section .slick-prev,
+    section.image-effect-section .slick-next {
+        width: 50px;
+    }
+
+    .numberrow.position-absolute.col-12.float-start.flex-center.gap-5.align-items-center.justify-content-evenly .numbercolumn:nth-child(1) {
+        padding-left: 30px;
+    }
+
+    main,
+    .bannerwrap {
+        gap: 50px;
+    }
+
+
+    .abstractshape::before {
+        height: 100%;
+    }
+
+    section.image-effect-section .slick-next {
+        left: 4%;
+    }
+
+    .text-transform h2 {
+        font-size: 100px;
+    }
+
+    body {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .effectlayer::after {
+        width: 388px;
+    }
+
+    .circle {
+        width: 150px;
+        height: 150px;
+    }
+
+    .circle:after {
+        width: 180px;
+        height: 180px;
+    }
+
+    .circlecont h4,
+    .abstractshape h4 {
+        font-size: 24px;
+    }
+
+    .directormessage {
+        padding: 50px 0;
+    }
+
+    .circle-context p,
+    .locationinfo ul li {
+        font-size: 13px;
+        line-height: 17px;
+        letter-spacing: 0.5px;
+    }
+
+    .circles .circle {
+        width: 200px;
+        height: 200px;
+    }
+
+    .quotes p,
+    .circle-context h4 {
+        font-size: 19px;
+        line-height: 24px;
+    }
+
+    .circle-context h5 {
+        font-size: 14px;
+    }
+    .loadingtext span:first-child {
+        font-size: 32px;
+        line-height: 50px;
+    }
+    
+    .loadingtext {
+        font-size: 18px;
+        line-height: 26px;
+    }
+}
+
+@media all and (max-width:1380px) {
+    .rightbox {
+        width: 90%;
+    }
+
+    .bannerimagecont h2, .heading h1 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .address,
+    .contact {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .projectcontent {
+        padding: 15px;
+        width: 400px;
+    }
+
+    .projectcontent ul li {
+        margin: 3px 0;
+        padding: 0 5px;
+    }
+
+    .togmenu ul li a,
+    .pseudo-text-effect {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .cross em {
+        width: 80px;
+        height: 80px;
+    }
+
+    .cross {
+        font-size: 30px;
+    }
+
+    .logo {
+        max-width: 75px;
+    }
+
+    .realstatebtn span {
+        font-size: 10px;
+        letter-spacing: 2px;
+    }
+
+    .header .realstatebtn {
+        max-width: 100px;
+        max-height: 35px;
+    }
+
+    .categories ul li {
+        font-size: 11px;
+        letter-spacing: 4px;
+    }
+
+    .home_slidertext h4 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .home_slidertext p {
+        font-size: 17px;
+    }
+
+    .runtext,
+    h3.effectheading.aos-init.aos-animate {
+        letter-spacing: 0.10em;
+    }
+
+    .header {
+        padding: 15px 0;
+    }
+
+    .header.fixed {
+        padding: 10px 0;
+    }
+
+    .header.fixed .logo {
+        max-width: 60px;
+    }
+
+    ul.d-flex.gap-5.m-0 {
+        gap: 2rem !important;
+    }
+
+    .effectlayer::after {
+        width: 379px;
+    }
+
+    .countercount {
+        font-size: 60px;
+    }
+
+    .title h3 {
+        padding: 7px 60px;
+        letter-spacing: 4px;
+        font-size: 15px;
+    }
+
+    .accordions .MuiButtonBase-root {
+        font-size: 16px;
+    }
+
+    .scroll-animated-text {
+        font-size: 250px;
+        line-height: 310px;
+    }
+
+    .btns {
+        margin: 10px auto;
+        font-size: 11px;
+        letter-spacing: 4px;
+    }
+
+
+    footer.pb-5 {
+        margin-top: 50px;
+        padding-bottom: 25px !important;
+    }
+
+    .copyrights p {
+        font-size: 10px;
+    }
+
+    .heading h3,
+    .projectcontent h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .circle-context p,
+    .projectcontent ul li {
+        font-size: 13px;
+        line-height: 20px;
+    }
+}
+
+@media all and (max-width:1180px) {
+    .col-lg-6.col-12.row.align-items-center.abstractshape {
+        width: 100%;
+        height: 300px;
+        margin: 25px 0;
+    }
+
+    .vimision .abstractshape:last-child {
+        margin: 0;
+    }
+
+    .abstractshape::before {
+        height: 335px;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .aboutus .row {
+        display: grid;
+    }
+
+    .aboutus .row .col-lg-4.col-12,
+    .aboutus .row .col-lg-7.col-12,
+    .vimision svg {
+        width: 100%;
+    }
+
+    .lefspace {
+        margin-bottom: 50px;
+        margin-right: 5%;
+    }
+
+    .aboutimg {
+        margin: auto;
+        width: 100%;
+    }
+
+    .fulltextcolumn {
+        width: 50vw;
+    }
+
+    .effectlayer::after {
+        width: 50vw;
+    }
+
+    .scroll-animated-text {
+        font-size: 200px;
+        right: -140%;
+        line-height: 200px;
+    }
+
+    .textmovement {
+        bottom: 0;
+    }
+
+    .hiddentextcolumn,
+    .effectlayer:before {
+        width: 50vw;
+    }
+
+    .hiddentextcolumn .scroll-animated-text {
+        right: -40%;
+    }
+
+    section.image-effect-section .slick-prev:before,
+    section.image-effect-section .slick-next:before {
+        display: none;
+    }
+
+    .text-transform h2 {
+        font-size: 90px;
+    }
+}
+
+@media all and (max-width:990px) {
+    .numbercolumn {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .aboutus.col-12.float-start .imagemanager{
+        max-height: 65vh;
+    }
+    .aboutus.col-12.float-start.managemobileview .imagemanager {
+        max-height: 100vh;
+    }
+    .numberrow.position-absolute.col-12.float-start.flex-center.gap-5.align-items-center.justify-content-evenly .numbercolumn:nth-child(1) {
+        padding: 0;
+    }
+
+    .aboutus .imagemanager .About_parallaxImageInner__a0xKv img {
+        width: 100%;
+        height: 150vh;
+        object-fit: cover;
+        object-position: top;
+    }
+
+    .numbercolumn:last-child {
+        margin: 0;
+    }
+
+    .position-relative.image-effect-section button.slick-arrow{
+        right: auto;
+        bottom: -20%;
+    }
+    .position-relative.image-effect-section button.slick-arrow.slick-next {
+        right: 30px;
+    }
+    .ssgroupformtext .text-transform {
+        transform: rotate(180deg) translate(0%, 0%);
+        height: auto;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .ssgroupformtext .text-transform h2 {
+        text-align: center;
+        justify-content: center;
+    }
+    
+    .popup .MuiFormControl-root {
+        margin: 15px 0;
+    }
+    figure.snip0016 h4 {
+        font-size: 19px;
+    }
+    .hiddentextcolumn .scroll-animated-text{
+        -webkit-text-stroke: 1px rgb(255, 255, 255);
+    }
+    .menubar {
+        width: 100%;
+    }
+    .ethoscontent h4 span {
+        padding-left:5px;
+    }
+    .menubar ul {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 25px;
+    }
+
+    .menubar ul li {
+        border: none;
+        width: 25%;
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    .menubar ul li a {
+        border-right: solid 1px #d7d7d7;
+        width: 100%;
+        float: left;
+    }
+
+    .menubar ul li:last-child a {
+        border: none;
+    }
+
+    .filtertabtopmenu {
+        width: 100%;
+        text-align: center;
+    }
+
+    .mediasection {
+        width: 100%;
+        float: left;
+    }
+
+    .lg-react-element {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .lg-react-element a {
+        width: 31%;
+    }
+
+    .banner img {
+        width: 100%;
+        height: 120%;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .banner .row,
+    .banner .row .col-12,
+    .About_parallaxImageInner__a0xKv {
+        height: 100%;
+    }
+
+    .projectcontent ul li {
+        margin: 4px 0;
+        padding: 0 8px;
+    }
+
+    .overview {
+        margin-top: 25px;
+    }
+
+    .gallerybanner {
+        height: 50vh;
+    }
+
+    .react-parallax img.react-parallax-bgimage {
+        height: 75vh !important;
+        object-fit: cover;
+    }
+
+    .Marquee-tag:nth-child(even), .Marquee-tag:nth-child(odd) {
+        width: 49%;
+        height: auto;
+    }
+    .Marquee-content.sm-padding-0 {
+        animation: none;
+    }
+    
+    .Marquee-content.sm-padding-0 .col-12.float-start.d-flex.gap-2 {
+        flex-wrap: wrap;
+        padding: 0 15px;
+    }
+
+    .locationcont {
+        padding: 10px;
+        height: auto;
+        margin-top: 15px;
+        border: 0;
+    }
+
+    .locationinfo {
+        width: 48%;
+        margin: 10px 1%;
+    }
+
+    .transform-component-module_content__FBWxo {
+        height: auto !important;
+    }
+
+    .locationheading {
+        text-align: center;
+    }
+
+    .Marquee-tag h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .projectbanner img.full-height {
+        object-fit: cover;
+    }
+
+    .bannerimagecont h2,
+    .heading h1 {
+        font-size: 40px;
+        letter-spacing: 3px;
+    }
+
+    .Marquee-tag p {
+        font-size: 12px;
+        letter-spacing: 0.5px;
+    }
+
+    footer.pb-5 {
+        padding-top: 50px;
+    }
+
+    .circles .circle {
+        width: 250px;
+        height: 250px;
+    }
+
+    .thambnailslider .slick-list {
+        width: 150%;
+        margin-left: 35%;
+    }
+
+    .abstractshape::before, figure.snip0016 p:nth-child(2) {
+        display: none;
+    }
+    figure.snip0016 p:last-child {
+        position: static;
+        transform: initial;
+        text-align: left;
+    }
+    figure.snip0016:hover figcaption::before {
+        left: 5px;
+    }
+    .banner {
+        height: 50vh;
+    }
+
+    .vimision svg {
+        width: 130px;
+    }
+
+    .infographics .col-lg-3.col-12 {
+        margin-bottom: 50px;
+    }
+
+    .position-absolute.bottom-0.start-0.end-0.pb-5.thambnailslider.overflow-hidden.pt-3 {
+        position: static !important;
+    }
+
+    .vimision .col-lg-11.m-auto.col-12 {
+        margin: 0 !important;
+    }
+
+
+    .col-lg-6.col-12.row.align-items-center.abstractshape {
+        flex-direction: column-reverse;
+        padding-bottom: 50px;
+        padding-left: 100px;
+        padding-right: 100px;
+        text-align: center;
+    }
+
+    .abstractshape p {
+        text-align: center;
+    }
+
+    .numberrow {
+        flex-wrap: wrap;
+        gap: 0 !important;
+    }
+
+    figure.snip0016 figcaption {
+        padding: 30px 1em;
+    }
+    figure.snip0016 a{
+        font-size: 10px;
+    }
+    .ssgroupfooter {
+        border: none !important;
+        padding: 0;
+    }
+
+    .ssgroupfooter .col-lg-4.col-12.flex-center.align-items-start.aos-init.aos-animate {
+        justify-content: start;
+    }
+
+    .ssgroupfooter form .row {
+        gap: 25px;
+    }
+    .thambnailslider button.slick-arrow.slick-prev,      
+    .thambnailslider button.slick-arrow.slick-next,
+    .mobile-show {
+        display: block !important;
+    }
+
+    .desktop-show {
+        display: none !important;
+    }
+
+    .copyrights,
+    .copyrights p {
+        text-align: center;
+    }
+
+    .header .col-12.float-start.flex-center {
+        justify-content: space-between;
+    }
+
+    .web-container {
+        width: 90%;
+    }
+
+    section.image-effect-section {
+        overflow: hidden;
+    }
+
+    .projectslickslider .projectslider {
+        width: 96%;
+    }
+
+    .sm-gap-3 {
+        gap: 25px;
+    }
+
+    .sm-dflex {
+        display: flex;
+    }
+
+    .sm-overflow {
+        overflow: hidden;
+    }
+
+    .sm-padding-0 {
+        padding: 0;
+    }
+
+    .ssgroupfooter .col-12.mt-5.text-center,
+    .navbar {
+        margin: 0 !important;
+    }
+
+    .ethoscontent h4 {
+        font-size: 30px;
+        line-height: 50px;
+        padding: 0 10px;
+        white-space: nowrap;
+    }
+
+    .ethos {
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    /* .thambnailslider button.slick-arrow.slick-next:before,
+    .thambnailslider button.slick-arrow.slick-prev:before {
+        color: #59595b;
+        content: '';
+    } */
+
+    /* .thambnailslider button.slick-arrow.slick-next,
+    .thambnailslider button.slick-arrow.slick-prev {
+        bottom: -15%;
+        top: inherit;
+        right: 0;
+        text-transform: uppercase;
+        background-image: url(/r-arrow.webp);
+        width: 100px;
+        height: 30px;
+        opacity: 0.3;
+        background-repeat: no-repeat;
+    }
+
+    .thambnailslider button.slick-arrow.slick-prev {
+        right: inherit;
+        background-image: url(/arrow.webp);
+    } */
+
+    .heading {
+        margin-bottom: 25px;
+        padding: 0 25px;
+    }
+
+    .heading h3,
+    .projectcontent h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .heading h1 {
+        padding-top: 10px;
+    }
+}
+
+@media all and (max-width:630px) {
+   
+    .mediasection {
+        margin-top: 25px;
+    }
+    .ssgroupformtext .text-transform h2 {
+        font-size: 6em;
+    }
+    .insidenavbarbutton .slick-arrow.slick-next,
+    .insidenavbarbutton .slick-arrow.slick-prev {
+        width: 30px;
+        height: 30px;
+    }
+
+    .css-1wf8b0h-MuiTabs-flexContainer,
+    .menubar ul {
+        overflow: auto;
+    }
+
+    .pgallery .container,
+    .locationmap .container, .ethossection .container {
+        max-width: 100%;
+    }
+
+    .menubar {
+        overflow: auto;
+    }
+
+    .menubar ul {
+        margin: 0;
+        min-width: 600px;
+    }
+
+    header.blackheader {
+        min-height: 50px;
+    }
+
+
+    .menubar ul li {
+        padding: 10px 0;
+    }
+
+    .lg-react-element a {
+        width: 47%;
+    }
+
+    .galleryimage {
+        height: 250px;
+    }
+
+    .ethos {
+        height: 50vh;
+    }
+
+    .abstractshape p,
+    .circlecont p {
+        font-size: 16px;
+        line-height: 24px;
+        max-height: none;
+    }
+
+    .circle {
+        width: 180px;
+        height: 180px;
+    }
+
+    .aboutnavbar ul li {
+        width: auto;
+        padding-right: 20px;
+        margin-right: 20px;
+        font-size: 11px;
+        letter-spacing: 2px;
+    }
+
+    .journey .slick-slide img {
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .quotes p:before {
+        font-size: 300px;
+        top: -50%;
+        font-family: sans-serif;
+    }
+
+    .aboutnavbar ul {
+        overflow-y: auto;
+        padding: 15px !important;
+    }
+
+    
+
+    .col-lg-6.col-12.row.align-items-center.abstractshape {
+        padding: 50px 10px;
+        margin: 0;
+        height: auto;
+        background: #f2f2f2;
+        border-bottom: solid 1px #fff;
+    }
+
+    .abstractshape p {
+        max-height: fit-content;
+    }
+
+    .cross {
+        transform: inherit;
+        right: 50px;
+        left: inherit;
+        display: flex;
+        width: 95%;
+        justify-content: flex-end;
+        top: 30px;
+    }
+
+    .rightbox,
+    .menuslide:after,
+    .cross:before,
+    .mediasection button:before {
+        display: none !important;
+    }
+
+    .web-container,
+    .menus.active .menuslide:before,
+    .togmenu ul {
+        width: 100%;
+    }
+
+    .mediasection button {
+        padding: 0 15px;
+    }
+
+    .title {
+        margin-bottom: 25px;
+    }
+
+    .title h3 {
+        padding: 7px 30px;
+        letter-spacing: 2px;
+        font-size: 14px;
+    }
+
+    .swiperslider img {
+        height: 85vh;
+    }
+
+    .aboutimg {
+        height: 65vh;
+    }
+
+    .hiddentextcolumn .scroll-animated-text {
+        right: -200%;
+    }
+
+    .effectlayer::after,
+    .effectlayer:before {
+        height: 150px;
+    }
+
+    .scroll-animated-text {
+        font-size: 100px;
+        right: -300%;
+        line-height: 100px;
+    }
+
+    .cross em {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .togmenu ul li a,
+    .pseudo-text-effect {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    .togmenu {
+        width: 90%;
+    }
+
+   
+    .thambnailslider .slick-list {
+        width: 350%;
+        margin-left: 12%;
+    }
+
+    .col-12.pt-5.mt-5.float-start.text-center {
+        padding-top: 1rem !important;
+        margin-top: 1rem !important;
+    }
+
+    .infographics .col-lg-3.col-12:last-child {
+        margin-bottom: 0;
+    }
+
+    .ethoscontent h4 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .countercount {
+        font-size: 50px;
+    }
+
+    .bannerimagecont h2,
+    .heading h1 {
+        font-size: 32px;
+        letter-spacing: 2px;
+        line-height: 40px;
+    }
+
+    .projectcontent {
+        width: 101%;
+        float: left;
+        padding: 25px 0;
+        padding-left: 20px;
+        left: -1px;
+        transform: translateZ(0) !important;
+    }
+
+    .projectwrap .container {
+        max-width: 100%;
+    }
+
+    .projectwrap .col-12.float-start {
+        padding: 0;
+    }
+
+    .bannerwrap {
+        gap: 0;
+    }
+
+    .locationmapcta button {
+        padding: 0 1px;
+    }
+
+    .title h3,
+    .realstatebtn span {
+        font-size: 12px;
+    }
+    footer.pb-5 .col-10.m-auto {
+    width: 100%;
+}
+}
+
+@media all and (max-width:480px) {
+    .ssgroupformtext .text-transform h2 {
+        font-size: 4em;
+    }
+    .ethoscontent h4 {
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .header .realstatebtn {
+        max-height: 32px;
+        padding: 0 10px;
+    }
+    .lg-react-element a {
+        width: 100%;
+    }
+
+    .locationinfo {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .aboutnavbar.mb-5 {
+        margin-bottom: 1.5rem !important;
+    }
+
+    body {
+        letter-spacing: 0.5px;
+    }
+
+    .home_slidertext h4,
+    .addressbox span {
+        font-size: 27px;
+        line-height: 34px;
+        padding: 0 10px;
+    }
+
+    .home_slidertext p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .logo {
+        max-width: 80px;
+    }
+
+    .projectslickslider.pb-5.mb-5 {
+        padding-bottom: 0.5rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    .effectlayer::after,
+    .effectlayer:before {
+        height: 100px;
+    }
+
+    .header.fixed .logo {
+        max-width: 70px;
+    }
+
+    
+    .vimision svg {
+        width: 100px;
+    }
+
+}
+
+@media all and (max-width:400px) {
+
+    .bannerimagecont h2,
+    .heading h1 {
+        font-size: 24px;
+        letter-spacing: 1px;
+        line-height: 30px;
+    }
+
+    .title h3 {
+        padding: 2px 20px;
+        letter-spacing: 1px;
+        font-size: 12px;
+    }
+
+    .ethoscontent h4 {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .togmenu ul {
+        width: 100%;
+    }
+
+    .circles .circle {
+        height: 220px;
+        width: 220px;
+    }
+
+    .togmenu ul {
+        gap: 10px !important;
+    }
+
+    .menus .togmenu .sidemenus li a {
+        letter-spacing: 3px;
+    }
+
+    .header {
+        padding: 10px 0;
+    }
+
+    .newslider p {
+        line-height: 22px;
+        font-size: 14px;
+    }
+
+    .realstatebtn span {
+        font-size: 9px;
+        letter-spacing: 1px;
+    }
+
+    .logo {
+        max-width: 60px;
+    }
+
+    .header.fixed .logo {
+        max-width: 50px;
+    }
+
+}
+
+@media all and (max-width:350px) {
+    .home_slidertext h4, .addressbox span {
+        font-size: 24px;
+        line-height: 30px;
+        padding: 0 5px;
+    }
+    .cross em {
+        width: 35px;
+        height: 35px;
+        font-size: 15px;
+    }
+    .countercount {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .heading h3 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .togmenu ul li a,
+    .pseudo-text-effect {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .menus .togmenu ul li {
+        padding: 10px 0;
+    }
+}
+
+/* @media screen and (min-width: 1680px) and (min-height: 1050px) {
+   
+} */
